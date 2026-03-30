@@ -124,7 +124,7 @@ export function Hero() {
                 style={{ boxShadow: "0 0 24px rgba(245,204,54,0.25)" }}
               >
                 <img
-                  src="/images/victoria-johnson.jpg"
+                  src="/images/hero-personal.jpg"
                   alt="Victoria Johnson"
                   className="w-full h-full object-cover object-top"
                   style={{ aspectRatio: "3/4" }}
