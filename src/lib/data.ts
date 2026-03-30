@@ -1,6 +1,6 @@
 export const PORTFOLIO_DATA = {
   personal: {
-    name: "Victoria Johnson",
+    name: "Victoria",
     headline: "Technical Writing Lead @ Turing | Email Marketer",
     tagline: "Making complex technology understandable.",
     location: "Ibadan, Oyo State, Nigeria",
