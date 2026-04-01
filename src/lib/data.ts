@@ -7,7 +7,7 @@ export const PORTFOLIO_DATA = {
     email: "victoriaagbomeji@gmail.com",
     linkedin: "linkedin.com/in/victoriaagbomeji",
     summary:
-      "I make hard things easy to understand. Not in a dumbed-down way — in a *finally, someone explained this properly* way. Over 5 years, I've written for AI startups, consulted with the United Nations, trained AI agents, and built The Yelo Room from scratch. My sweet spot is working with technical teams who know what they're building but need help making sure everyone else does too. That's the work I'm focused on in 2026.",
+      "I make hard things easy to understand. Over 5 years, I've written for AI startups, consulted with the United Nations, trained AI agents, and built The Yelo Room from scratch. My sweet spot is working with technical teams who know what they're building but need help making sure everyone else does too. That's the work I'm focused on in 2026.",
   },
   stats: [
     { value: "5+", label: "Years Experience" },
